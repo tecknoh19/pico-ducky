@@ -125,3 +125,5 @@ from keycode_win_LANG import Keycode
 [CircuitPython HID](https://learn.adafruit.com/circuitpython-essentials/circuitpython-hid-keyboard-and-mouse)
 
 [Ducky Script](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript)
+
+[Ducky Payload Examples](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads)
